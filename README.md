@@ -16,7 +16,7 @@ Hot keys:
 
 ##3.效果图：
 
-![y](预览/image.png)
+![y](预览/img.png)
 
 
 CMakeLists代码
